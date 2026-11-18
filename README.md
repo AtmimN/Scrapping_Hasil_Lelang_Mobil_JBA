@@ -48,8 +48,7 @@ flowchart TD
 
 ### Langkah Instalasi
 ```bash
-# 1. Masuk ke folder proyek
-cd "c:/Kuliah/Semestar 5/Scripting Languange/Praktik/Bot_Harian"
+# 1. Masuk ke direktori folder proyek
 
 # 2. Buat dan aktifkan virtual environment (jika belum ada)
 python -m venv env
