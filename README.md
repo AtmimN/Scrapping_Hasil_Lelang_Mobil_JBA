@@ -48,8 +48,7 @@ flowchart TD
 
 ### Langkah Instalasi
 ```bash
-# 1. Masuk ke folder proyek
-cd "c:/Kuliah/Semestar 5/Scripting Languange/Praktik/Bot_Harian"
+# 1. Masuk ke direktori folder proyek
 
 # 2. Buat dan aktifkan virtual environment (jika belum ada)
 python -m venv env
@@ -73,7 +72,7 @@ BOT_TOKEN=123456789:ABCdefGhIJKlmNoPQRstuVWXyz
 OWNER_CHAT_ID=12345678
 
 # Email kontak identitas User-Agent (WAJIB diisi demi etika scraping)
-CONTACT_EMAIL=mahasiswa@student.uny.ac.id
+CONTACT_EMAIL=username@gmail.com
 
 # Jadwal harian bot (WIB)
 JAM_JADWAL=07:00
