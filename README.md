@@ -72,7 +72,7 @@ BOT_TOKEN=123456789:ABCdefGhIJKlmNoPQRstuVWXyz
 OWNER_CHAT_ID=12345678
 
 # Email kontak identitas User-Agent (WAJIB diisi demi etika scraping)
-CONTACT_EMAIL=mahasiswa@student.uny.ac.id
+CONTACT_EMAIL=username@gmail.com
 
 # Jadwal harian bot (WIB)
 JAM_JADWAL=07:00
