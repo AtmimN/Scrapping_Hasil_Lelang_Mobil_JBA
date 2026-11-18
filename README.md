@@ -211,6 +211,5 @@ Bot_Harian/
 ├── .env.example
 ├── .gitignore
 ├── pytest.ini
-├── instruction.md
 └── README.md
 
