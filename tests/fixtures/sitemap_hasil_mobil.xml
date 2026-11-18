@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://www.jba.co.id/id/hasil-harga-lelang/lelang/avanza</loc>
+    <lastmod>2023-01-01</lastmod>
+  </url>
+  <url>
+    <loc>https://www.jba.co.id/id/hasil-harga-lelang/lelang/xenia</loc>
+    <lastmod>2023-01-01</lastmod>
+  </url>
+  <url>
+    <loc>https://www.jba.co.id/id/hasil-harga-lelang/lelang/innova</loc>
+    <lastmod>2023-01-01</lastmod>
+  </url>
+  <!-- Duplikat yang harus diabaikan/didupduplikasi -->
+  <url>
+    <loc>https://www.jba.co.id/id/hasil-harga-lelang/lelang/avanza</loc>
+    <lastmod>2023-01-01</lastmod>
+  </url>
+  <!-- URL non-model yang harus diabaikan -->
+  <url>
+    <loc>https://www.jba.co.id/id/hasil-harga-lelang</loc>
+    <lastmod>2023-01-01</lastmod>
+  </url>
+  <url>
+    <loc>https://www.jba.co.id/id/lelang-mobil/search?vehicle_type=car</loc>
+    <lastmod>2023-01-01</lastmod>
+  </url>
+</urlset>
+

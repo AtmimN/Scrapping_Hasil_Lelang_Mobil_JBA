@@ -1,0 +1,39 @@
+User-agent: *
+
+Disallow: */search?
+Disallow: *?page=*
+Disallow: *&page=
+Disallow: *?direction*
+Disallow: *?merk&*
+Disallow: *?make&*
+Disallow: *?model_*
+Disallow: *&star_year=
+Disallow: *&end_year=
+Disallow: *&price=
+Disallow: *&location=
+Disallow: *&filter=
+Disallow: *&color=
+Disallow: *&from_date=
+Disallow: *&to_date=
+Disallow: *&direction=
+Disallow: */search-detail/*
+Disallow: */1000
+Disallow: */carigrade
+
+Sitemap: https://www.jba.co.id/sitemap/id-homepage.xml
+Sitemap: https://www.jba.co.id/sitemap/id-lelang-mobil-merek.xml
+Sitemap: https://www.jba.co.id/sitemap/id-lelang-motor-merek.xml
+Sitemap: https://www.jba.co.id/sitemap/id-lelang-mobil-model.xml
+Sitemap: https://www.jba.co.id/sitemap/id-lelang-motor-model.xml
+Sitemap: https://www.jba.co.id/sitemap/id-lelang-mobil.xml
+Sitemap: https://www.jba.co.id/sitemap/id-lelang-motor.xml
+Sitemap: https://www.jba.co.id/sitemap/id-news.xml
+Sitemap: https://www.jba.co.id/sitemap/id-hasil-lelang-mobil.xml
+Sitemap: https://www.jba.co.id/sitemap/id-hasil-lelang-motor.xml
+Sitemap: https://www.jba.co.id/sitemap/en-homepage.xml
+Sitemap: https://www.jba.co.id/sitemap/en-lelang-mobil.xml
+Sitemap: https://www.jba.co.id/sitemap/en-lelang-motor.xml
+Sitemap: https://www.jba.co.id/sitemap/en-news.xml
+Sitemap: https://www.jba.co.id/sitemap/en-hasil-lelang-mobil.xml
+Sitemap: https://www.jba.co.id/sitemap/en-hasil-lelang-motor.xml
+

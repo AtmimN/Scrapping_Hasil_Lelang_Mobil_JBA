@@ -1,0 +1,14 @@
+data/
+output/
+logs/
+.env
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+env/
+*.db
+proyek-pekan-12-contoh/
+instruction.md
+newinstruction.md
